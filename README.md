@@ -68,7 +68,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://ismayito.github.io/Awesome-Books/#"> See Project 🚀</a>
+<a href="https://ismayito.github.io/awesome-books-v2/#"> See Project 🚀</a>
 
 <!-- GETTING STARTED -->
 
@@ -83,13 +83,13 @@ To get get a local copy up and running, you can follow these simple steps:
 Clone the repository to your local machine using the following command:
 
 ```sh
-  git clone git@github.com/izebiafe/Awesome-book
+  git clone https://github.com/ismayito/awesome-books-v2.git
 ```
 
 Navigate to the project directory:
 
 ```sh
- cd awesome-book
+ cd awesome-books-v2
 ```
 
 Open the index.html file in your web browser to view the project:
@@ -104,9 +104,9 @@ That's it! With these simple steps, you should be able to get up and running wit
 
 ### Usage
 
-To use this project, simply visit the following link: https://github.com/izebiafe/awesome-book
+To use this project, simply visit the following link: https://github.com/ismayito/awesome-books-v2.git
 
-- **Open the <a href="https://izebiafe.github.io/awesome-book">project 🚀</a> in your web browser.**
+- **Open the <a href="https://github.com/ismayito/awesome-books-v2.git">project 🚀</a> in your web browser.**
 
 - **Use the provided form to add books to the list.**
 
@@ -131,12 +131,6 @@ Example command:
 ## 👥 Authors <a name="authors"></a>
 
 <!-- > Mention all of the collaborators of this project. -->
-
-👤 **Afimia Fidelis Izebiafe**
-
-- GitHub: [@Izebiafe](https://github.com/Izebiafe)
-- Twitter: [@izebiafe](https://twitter.com/Afimia_fidelis)
-- LinkedIn: [Izebiafe](https://linkedin.com/in/afimia-fidelis-4862397a/)
 
 👤 **Mayito Ismail**
 
