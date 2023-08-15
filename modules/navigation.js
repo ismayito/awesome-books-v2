@@ -18,7 +18,7 @@ const navigation = () => {
     bookPage.style.display = 'block';
     addBookPage.style.display = 'none';
     contactPage.style.display = 'none';
-    timeStamp.innerHTML = `${date}`;
+    timeStamp.innerHTML = `${date()}`;
     bookStore.displayFromLocalStorage();
   });
 
